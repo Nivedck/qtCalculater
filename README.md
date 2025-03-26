@@ -1,4 +1,3 @@
-Here's a simple `README.md` file for your **QtCalculator** repository:  
 
 ```markdown
 # QtCalculator 🖩
@@ -9,8 +8,7 @@ A simple calculator application built using **Qt (C++)**. This application perfo
 ✖️ Multiplication  
 ➗ Division (with zero-division handling)  
 
-## 📷 Screenshot  
-*(Add a screenshot of your UI here if possible)*  
+
 
 ## 🚀 Features  
 - **Basic arithmetic operations** (Addition, Subtraction, Multiplication, Division)  
@@ -31,7 +29,7 @@ sudo apt install qtbase5-dev qtcreator
 
 ### **2. Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/QtCalculator.git
+git clone https://github.com/Nivedck/QtCalculator.git
 cd QtCalculator
 ```
 
