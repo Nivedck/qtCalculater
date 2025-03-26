@@ -1,5 +1,5 @@
 
-```markdown
+
 # QtCalculator 🖩
 
 A simple calculator application built using **Qt (C++)**. This application performs basic arithmetic operations:  
@@ -15,7 +15,7 @@ A simple calculator application built using **Qt (C++)**. This application perfo
 - **Basic arithmetic operations** (Addition, Subtraction, Multiplication, Division)  
 - **Error handling** for division by zero  
 - **User-friendly interface** using Qt Widgets
-``` 
+  
 
 ## 🛠️ Installation & Setup  
 ### **1. Install Qt and Qt Creator**
@@ -76,5 +76,3 @@ This project is open-source under the **MIT License**.
 ---
 
 🚀 **Happy Coding with Qt!** 🎯  
-```
-
