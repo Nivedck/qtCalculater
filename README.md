@@ -8,30 +8,36 @@ A simple calculator application built using **Qt (C++)**. This application perfo
 ✖️ Multiplication  
 ➗ Division (with zero-division handling)  
 
-
+## Screenshot
+![Calculator Screenshot](screenshot.png)
 
 ## 🚀 Features  
 - **Basic arithmetic operations** (Addition, Subtraction, Multiplication, Division)  
 - **Error handling** for division by zero  
-- **User-friendly interface** using Qt Widgets  
+- **User-friendly interface** using Qt Widgets
+``` 
 
 ## 🛠️ Installation & Setup  
-### **1. Install Qt and Qt Creator**  
+### **1. Install Qt and Qt Creator**
+
 On **Arch Linux (Garuda, Manjaro, etc.)**, install Qt and Qt Creator using:  
 ```sh
 sudo pacman -S qt5 qt5-base qtcreator
 ```
+
 
 On **Ubuntu/Debian-based distros**:  
 ```sh
 sudo apt install qtbase5-dev qtcreator
 ```
 
+
 ### **2. Clone the Repository**  
 ```sh
 git clone https://github.com/Nivedck/QtCalculator.git
 cd QtCalculator
 ```
+
 
 ### **3. Open and Build in Qt Creator**  
 1. Open `Qt Creator`.  
@@ -72,9 +78,3 @@ This project is open-source under the **MIT License**.
 🚀 **Happy Coding with Qt!** 🎯  
 ```
 
-### **How to Use This?**  
-1. Save this content in a `README.md` file in your **QtCalculator** repository.  
-2. Replace `yourusername` with your actual GitHub username in the clone URL.  
-3. If you have a screenshot, add it to your repo and link it in `📷 Screenshot`.  
-
-Let me know if you need any modifications! 🚀😊
